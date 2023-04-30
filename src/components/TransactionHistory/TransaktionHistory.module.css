@@ -1,0 +1,24 @@
+.transaction__history {
+  border: 2px solid #ddd;
+  background-color: #fff;
+  width: -webkit-fill-available;
+}
+
+.table__th {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  padding: 10px;
+  background-color: #f2f2f2;
+}
+
+.table__td {
+  font-size: 14px;
+  text-align: left;
+  padding: 10px;
+  border: 1px solid #f2f2f2;
+}
+
+.table__tr:hover {
+  background-color: #f5f5f5;
+}

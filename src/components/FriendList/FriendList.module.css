@@ -1,0 +1,44 @@
+.friends__box {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  border: 2px solid #ddd;
+  background-color: #fff;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  width: inherit;
+}
+
+.list__item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+.list__item p {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.status {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.true {
+  background-color: green;
+}
+
+.false {
+  background-color: gray;
+}
+
+.avatar {
+  margin-right: 10px;
+}
