@@ -2,6 +2,7 @@
   border: 2px solid #ddd;
   background-color: #fff;
   width: -webkit-fill-available;
+  margin-bottom: 20px;
 }
 
 .table__th {
